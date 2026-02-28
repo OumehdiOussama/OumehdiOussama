@@ -58,10 +58,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OumehdiOussama&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OumehdiOussama&layout=compact&theme=tokyonight" />
-</p>
+https://github-readme-stats.vercel.app/api?username=OumehdiOussama&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=OumehdiOussama&layout=compact&theme=tokyonight
+https://github-readme-streak-stats.herokuapp.com/?user=OumehdiOussama&theme=tokyonight
 
 ---
 
