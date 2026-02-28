@@ -5,9 +5,8 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/oussama-oumehdi-208b83390/" target="_blank" style="display:inline-block">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>  
-  <!-- Email -->
-   <a href="mailto:oumehdioussama@gmail.com" target="_blank" style="display:inline-block">
+  </a><!-- Email -->
+  <a href="mailto:oumehdioussama@gmail.com" target="_blank" style="display:inline-block">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
