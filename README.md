@@ -5,9 +5,9 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/oussama-oumehdi-208b83390/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> 
+  </a>  
   <!-- Email -->
-  <a href="mailto:oumehdioussama@gmail.com" target="_blank">
+   <a href="mailto:oumehdioussama@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -77,16 +77,19 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="//www.linkedin.com/in/oussama-oumehdi-208b83390/" target="_blank">
+  <a href="https://www.linkedin.com/in/oussama-oumehdi-208b83390/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
+  
   <!-- Email -->
   <a href="mailto:oumehdioussama@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <p align="center">
-    I’m always open to **collaboration, networking, and professional opportunities**.  
-    Feel free to reach out via **LinkedIn or email**, whether it’s about projects, tech discussions, or just to connect professionally.
-  </p>
-  <!-- Portfolio: add your website or project here in the future -->
 </p>
+
+<p align="center" style="margin-top:10px; font-size:16px;">
+I’m always open to <b>collaboration, networking, and professional opportunities</b>.  
+Feel free to reach out via <b>LinkedIn or email</b>, whether it’s about projects, tech discussions, or just to connect professionally.
+</p>
+
+<!-- Portfolio: add website or project here in the future -->
