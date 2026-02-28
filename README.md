@@ -5,18 +5,16 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <span> </span>
-  <!-- Email -->
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  </a><!-- Email --><a href="mailto:YOUR_EMAIL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
+<!--
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+  <!--<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p> 
+-->
 
 ---
 
@@ -79,12 +77,12 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+  </a><!-- Email --><a href="mailto:YOUR_EMAIL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
+  <p align="center">
+    I’m always open to **collaboration, networking, and professional opportunities**.  
+    Feel free to reach out via **LinkedIn or email**, whether it’s about projects, tech discussions, or just to connect professionally.
+  </p>
   <!-- Portfolio: add your website or project here in the future -->
 </p>
