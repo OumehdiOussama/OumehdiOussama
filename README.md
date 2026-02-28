@@ -52,7 +52,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -61,7 +61,7 @@
 </p>
 
 ---
-
+-->
 ## 🔥 GitHub Streak
 
 <p align="center">
